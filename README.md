@@ -62,7 +62,7 @@ The data is contained in three files:
  ### Links for the project : 
  #### Git Hub link : Click [here](https://github.com/rachit1010/Starbucks_Offer_Analysis)
  
- #### Blog Post link : Click [here]()
+ #### Blog Post link : Click [here](https://rachitagrawal-26429.medium.com/starbucks-capstone-project-offers-analysis-done-based-on-data-provided-by-starbucks-5a7fcd1320a9)
  
  ### Licensing, Authors, Acknowledgements :
  Content of this project is part of Udacity Nanodegree. Special thanks to Starbucks and Udacity for providing the data utilized in this project!
